@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background: #ffe3f6;
+}
+
+button {
+  background: rgb(232, 17, 203);
+  font-size: 20px;
+  color: white;
+  padding: 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: rgb(190, 10, 165);
+}
+
+#pokemon {
+  font-size: 24px;
+  white-space: pre-line;
+  background: white;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+  border-radius: 10px;
+}
